@@ -182,12 +182,6 @@ CREATE TABLE REPLY (
 
 ---
 
-## 📷 スクリーンショット
-
-> 後日追加予定
-
----
-
 ## 📝 その他
 
 - 日本語データ（NVARCHAR2・NCLOB）処理のため、Oracle JDBCプロパティに `oracle.jdbc.defaultNChar=true` を設定
